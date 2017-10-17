@@ -7,7 +7,7 @@
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
   <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
@@ -55,6 +55,7 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="NewScratchFile" />
+  <action id="QuickChangeScheme" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
