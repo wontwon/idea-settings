@@ -3,12 +3,6 @@
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="f12" />
-    <keyboard-shortcut first-keystroke="meta alt down" />
-    <mouse-shortcut keystroke="button2" />
-    <mouse-shortcut keystroke="shift button1" />
-  </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift alt button1" />
   </action>
