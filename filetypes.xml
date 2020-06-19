@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping pattern=".env" type="JavaFX" />
       <mapping pattern="NameHelper-test" type="JavaScript" />
+      <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="development" type="PLAIN_TEXT" />
+      <mapping ext="beta" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
